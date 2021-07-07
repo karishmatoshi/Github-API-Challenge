@@ -86,4 +86,4 @@ def webhook():
 
 
 if __name__ == "__main__":
-    main.run()
+    app.run()
